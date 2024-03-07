@@ -4,7 +4,7 @@ Project created for studying ROS2 Framework.
 
 ## Nodes
 
-- **counter_node** - Simple node that implements a counter.
+- **counter_node** - A simple node that implements a counter.
 - **draw_spiral** - A simple node using the turtlesim node to draw a spiral.
 
 ## Links / References
