@@ -1,0 +1,38 @@
+## GIT IGNORED FILES
+
+# IDE settings
+.idea
+
+# Ignore production settings
+settings/*.secret
+
+# Ignore IDE config files
+.idea/
+~*
+*.pyc
+.vscode/
+
+# Python virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Temp files
+.DS_Store
+
+# Service files
+.coverage
+coverage.xml
+/cache/*
+!/cache/.gitkeep
+
+# Uvicorn/FastAPI PID file
+uvicorn.pid
+tmp.sh
+debug*.csv
+
+/.scannerwork/
+
+/*.png
+/*.csv
